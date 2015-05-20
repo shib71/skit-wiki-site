@@ -1,0 +1,12 @@
+{
+  "name": "skit-wiki-site",
+  "scripts": {
+    "start": "node main"
+  },
+  "dependencies": {
+    "skit": "git+ssh://shib71@github.com:shib71/skit.git"
+  },
+  "description": "...",
+  "readme": "...",
+  "repository": {}
+}
